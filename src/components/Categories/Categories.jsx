@@ -25,4 +25,6 @@ const Categories = ({ title, products = [], amount }) => {
   );
 };
 
+
+
 export default Categories;
